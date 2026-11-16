@@ -1,9 +1,17 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/bt62-light.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/bt62-dark.png">
-    <img alt="BT62" src="./assets/bt62-dark.png" width="180">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/BT62INC/logo/main/LogoSimple-Claire.png">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BT62INC/logo/main/LogoSimple-Sombre.png">
+    <img
+      src="https://raw.githubusercontent.com/BT62INC/logo/main/LogoSimple-Sombre.png"
+      alt="Logo BT62INC"
+      width="180">
   </picture>
+</div>
 
   # BT62INC
 
