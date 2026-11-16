@@ -27,10 +27,11 @@
 
 ---
 
-### License notice
-
-Unless explicitly stated otherwise in a repository-specific license, all software, source code, assets and documentation published by **BT62INC** are protected by copyright and remain **All Rights Reserved**.
-
-Copying, modifying, redistributing, sublicensing, selling, reselling or using these materials commercially is prohibited without prior written permission from BT62INC.
-
-Public availability does not grant permission to reuse the contents. When a repository includes a license, that license takes precedence and defines the permitted uses.
+> [!IMPORTANT]
+> **License notice**
+>
+> Unless explicitly stated otherwise in a repository-specific license, all software, source code, assets and documentation published by **BT62INC** are protected by copyright and remain **All Rights Reserved**.
+>
+> Copying, modifying, redistributing, sublicensing, selling, reselling or using these materials commercially is prohibited without prior written permission from BT62INC.
+>
+> Public availability does not grant permission to reuse the contents. When a repository includes a license, that license takes precedence and defines the permitted uses.
