@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title description">
+  <title id="title">BT62INC License Notice</title>
+  <desc id="description">All BT62INC materials are protected by copyright unless a project-specific license states otherwise.</desc>
+  <rect x="8" y="8" width="1084" height="314" rx="24" fill="#111418" stroke="#343a43" stroke-width="2"/>
+  <rect x="28" y="28" width="5" height="274" rx="2.5" fill="#607d9b"/>
+
+  <g transform="translate(63 48)">
+    <path d="M22 2 42 38H2L22 2Z" fill="none" stroke="#7890a8" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M22 14v11" stroke="#7890a8" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="22" cy="31" r="2" fill="#7890a8"/>
+  </g>
+
+  <text x="125" y="78" fill="#e6e9ed" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="2">LICENSE NOTICE</text>
+  <text x="125" y="105" fill="#858d98" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1">BT62INC · ALL RIGHTS RESERVED</text>
+
+  <g fill="#c5cad1" font-family="Arial, Helvetica, sans-serif" font-size="17">
+    <text x="63" y="151">Unless a repository-specific license explicitly states otherwise, all software, source code, assets and</text>
+    <text x="63" y="177">documentation published by BT62INC are protected by copyright and remain All Rights Reserved.</text>
+
+    <text x="63" y="218">Copying, modifying, redistributing, sublicensing, selling, reselling or commercial use is prohibited</text>
+    <text x="63" y="244">without prior written permission from BT62INC.</text>
+
+    <text x="63" y="285" fill="#858d98">A project-specific license, when present, takes precedence for that project only.</text>
+  </g>
+</svg>
